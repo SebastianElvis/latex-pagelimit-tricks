@@ -1,4 +1,4 @@
-# latex-pagelimit-ticks
+# latex-pagelimit-tricks
 
 This repo contains some Latex tricks for compressing the paper into a certain page limit.
 These tricks are collected from the Internet, e.g., [here](https://people.csail.mit.edu/leiy/personal/fit-paper/).
